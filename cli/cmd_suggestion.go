@@ -5,7 +5,7 @@ import (
 	"sort"
 	"strings"
 
-	cmds "github.com/ipfs/go-ipfs-cmds"
+	cmds "github.com/stateless-minds/go-ipfs-cmds"
 	levenshtein "github.com/texttheater/golang-levenshtein/levenshtein"
 )
 

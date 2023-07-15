@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	cmds "github.com/ipfs/go-ipfs-cmds"
+	cmds "github.com/stateless-minds/go-ipfs-cmds"
 
 	"github.com/stateless-minds/boxo/files"
 	logging "github.com/ipfs/go-log"
