@@ -13,7 +13,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/stateless-minds/boxo/files"
+	"github.com/ipfs/boxo/files"
 	cmds "github.com/stateless-minds/go-ipfs-cmds"
 	logging "github.com/ipfs/go-log"
 )

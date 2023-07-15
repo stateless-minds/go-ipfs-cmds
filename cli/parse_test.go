@@ -10,7 +10,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/stateless-minds/boxo/files"
+	"github.com/ipfs/boxo/files"
 
 	cmds "github.com/stateless-minds/go-ipfs-cmds"
 )

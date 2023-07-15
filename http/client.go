@@ -11,7 +11,7 @@ import (
 
 	cmds "github.com/stateless-minds/go-ipfs-cmds"
 
-	"github.com/stateless-minds/boxo/files"
+	"github.com/ipfs/boxo/files"
 )
 
 const (
